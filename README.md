@@ -2,8 +2,11 @@
 Jupyter notebooks I wrote from studying Andrej Karpathy's "Neural Networks: Zero to Hero" series lectures on YouTube.  
   
 Lecture 1 (micrograd) - A simple pedagogical autograd engine describing basic forward and backward propagation algorithms for neural network learning.  
+  
 Lecture 2 (makemore_bigram) - A single layer character level language model that predicts the next character in a sequence by looking at one preceding character.  
+  
 Lecture 3 (makemore_MLP) - A character level language model that predicts the next character in a sequence by using a context window of 3 preceding characters.  
+  
 ...  
   
 ## Acknowledgements
